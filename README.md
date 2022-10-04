@@ -1,6 +1,6 @@
 Hello world, I'm Jev! 
 
-I was a civic advocate and non-profit exec for almost a decade, and for years I loved the mentorship, community building, teaching, service, team-leading, and civil-rights work I did. A few years back, I found another interest that I've become incredibly passionate about: technology; and specifically software development. No matter your background, context, region, language, race, religion, ability, gender expression, or any other category we use to label one another, there's a place for you in the tech community, and that's one of the many things I love about it!
+I was a civic advocate and non-profit exec for almost a decade, and for years I loved the mentorship, community building, teaching, service, team-leading, and civil-rights work I did. A few years back, I found another interest that I've become incredibly passionate about: technology; and specifically software engineering. No matter your background, context, region, language, race, religion, ability, gender expression, or any other category we use to label one another, there's a place for you in the tech community, and that's one of the many things I love about it!
 
 Most recently I've been working with TypeScript, React, Elixir, Kubernetes, ElasticSearch, and Postgres, GraphQL, and Python, building an AI and ML-powered platform that gives senior leaders in private, public, and non-profit organizations the intelligence they need to transform the speed, quality, and impact of their decisions; and I'VE LOVED IT!
 
@@ -19,6 +19,8 @@ Most recently I've been working with TypeScript, React, Elixir, Kubernetes, Elas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
