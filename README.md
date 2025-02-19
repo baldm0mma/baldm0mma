@@ -1,8 +1,8 @@
 Hello world, I'm Jev! 
 
-I was a civic advocate and non-profit exec for almost a decade, and for years I loved the mentorship, community building, teaching, service, team-leading, and civil-rights work I did. A few years back, I found another interest that I've become incredibly passionate about: technology; and specifically software engineering. No matter your background, context, region, language, race, religion, ability, gender expression, or any other category we use to label one another, there's a place for you in the tech community, and that's one of the many things I love about it!
+I was a civic advocate and non-profit exec for almost a decade, and for years I loved the mentorship, community building, teaching, service, team-leading, and civil-rights work I did. A number years back, I found another interest that I've become incredibly passionate about: technology; and specifically software engineering. No matter your background, context, region, language, race, religion, ability, gender expression, or any other category we use to label one another, there's a place for you in the tech community, and that's one of the many things I love about it!
 
-Most recently I've been working with TypeScript, React, Elixir, Kubernetes, ElasticSearch, and Postgres, GraphQL, and Python, building an AI and ML-powered platform that gives senior leaders in private, public, and non-profit organizations the intelligence they need to transform the speed, quality, and impact of their decisions; and I'VE LOVED IT!
+I'm currently a Senior SWE at Grafana Labs working on improving, automating, and hardening our CI/CD on-prem release pipeline. I've been working a bunch with building GitHub Actions workflows, updateing Drone pipelines, and building Terraform infrastructure.
 
 ## Stats
 
